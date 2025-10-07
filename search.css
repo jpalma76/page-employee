@@ -116,7 +116,7 @@ header div a {
 /* Hero */
 main {
   width: 100%;
-  min-height: 550px;
+  min-height: 90vh;
   text-align: center;
   display: flex;
   flex-direction: column;
@@ -142,11 +142,6 @@ main {
     z-index: -1;
     left: 0;
     right: 0;
-    mask-image: linear-gradient(
-      to bottom,
-      rgba(16, 25, 34, 1) 5%,
-      rgba(16, 25, 34, 0) 80%
-    );
   }
 }
 
