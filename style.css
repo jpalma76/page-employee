@@ -156,7 +156,7 @@ form > div {
   border-radius: 2rem;
   box-shadow: 0 10px 15px -3px var(--shadow);
   gap: 1rem;
-  padding: 0 1.5rem;
+  padding: 0 1rem;
   border: 1px solid;
 }
 

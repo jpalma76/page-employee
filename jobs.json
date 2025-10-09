@@ -1,0 +1,154 @@
+{
+  "ofertas_trabajo": [
+    {
+      "empresa": "TechSolutions",
+      "cargo": "Desarrollador Frontend",
+      "lenguajes": ["JavaScript", "React", "CSS", "HTML"],
+      "skills": ["Responsive Design", "Version Control (Git)", "REST APIs"],
+      "tipo_contrato": "Indefinido",
+      "tipo_empleo": "Full-time",
+      "ubicacion": "Madrid, España",
+      "requisitos": [
+        "2+ años de experiencia en desarrollo frontend",
+        "Conocimiento avanzado en React",
+        "Experiencia con herramientas de construcción como Webpack o Vite"
+      ],
+      "rango_salarial": "30,000€ - 40,000€ anuales"
+    },
+    {
+      "empresa": "DevWorks",
+      "cargo": "Desarrollador Backend",
+      "lenguajes": ["Python", "Django", "SQL"],
+      "skills": ["Arquitectura de software", "Microservicios", "Docker"],
+      "tipo_contrato": "Temporal",
+      "tipo_empleo": "Part-time",
+      "ubicacion": "Remoto",
+      "requisitos": [
+        "Experiencia trabajando con Django y PostgreSQL",
+        "Conocimientos de seguridad en la web",
+        "Experiencia en integración continua (CI/CD)"
+      ],
+      "rango_salarial": "25,000€ - 35,000€ anuales"
+    },
+    {
+      "empresa": "SoftDev",
+      "cargo": "Fullstack Developer",
+      "lenguajes": ["JavaScript", "Node.js", "React", "MongoDB"],
+      "skills": ["Desarrollo de APIs", "Desarrollo de aplicaciones escalables", "Agile"],
+      "tipo_contrato": "Indefinido",
+      "tipo_empleo": "Full-time",
+      "ubicacion": "Barcelona, España",
+      "requisitos": [
+        "3+ años de experiencia en desarrollo fullstack",
+        "Dominio de JavaScript y Node.js",
+        "Experiencia con bases de datos NoSQL"
+      ],
+      "rango_salarial": "35,000€ - 45,000€ anuales"
+    },
+    {
+      "empresa": "CodeMasters",
+      "cargo": "Desarrollador Mobile",
+      "lenguajes": ["Kotlin", "Swift", "Java"],
+      "skills": ["Diseño de interfaces móviles", "Optimización de rendimiento", "Versionado con Git"],
+      "tipo_contrato": "Indefinido",
+      "tipo_empleo": "Full-time",
+      "ubicacion": "Valencia, España",
+      "requisitos": [
+        "Experiencia con Android (Kotlin) o iOS (Swift)",
+        "Conocimientos de integración de APIs",
+        "Experiencia en desarrollo de apps de alto rendimiento"
+      ],
+      "rango_salarial": "28,000€ - 38,000€ anuales"
+    },
+    {
+      "empresa": "Cloud Innovators",
+      "cargo": "Desarrollador Cloud",
+      "lenguajes": ["Python", "Terraform", "AWS"],
+      "skills": ["Infraestructura como código", "Automatización", "AWS Lambda"],
+      "tipo_contrato": "Contrato temporal",
+      "tipo_empleo": "Full-time",
+      "ubicacion": "Madrid, España",
+      "requisitos": [
+        "Experiencia con AWS y servicios en la nube",
+        "Conocimiento de Terraform y Docker",
+        "Habilidades en scripts de automatización"
+      ],
+      "rango_salarial": "40,000€ - 50,000€ anuales"
+    },
+    {
+      "empresa": "DataXperts",
+      "cargo": "Data Engineer",
+      "lenguajes": ["Python", "SQL", "Apache Spark"],
+      "skills": ["ETL", "Big Data", "Análisis de datos"],
+      "tipo_contrato": "Indefinido",
+      "tipo_empleo": "Full-time",
+      "ubicacion": "Sevilla, España",
+      "requisitos": [
+        "Experiencia con procesamiento de grandes volúmenes de datos",
+        "Conocimientos avanzados en SQL y Python",
+        "Experiencia con plataformas de Big Data como Hadoop"
+      ],
+      "rango_salarial": "35,000€ - 45,000€ anuales"
+    },
+    {
+      "empresa": "AI Tech",
+      "cargo": "Desarrollador de Inteligencia Artificial",
+      "lenguajes": ["Python", "TensorFlow", "PyTorch"],
+      "skills": ["Machine Learning", "Deep Learning", "Redes neuronales"],
+      "tipo_contrato": "Indefinido",
+      "tipo_empleo": "Full-time",
+      "ubicacion": "Barcelona, España",
+      "requisitos": [
+        "Experiencia en desarrollo de modelos de machine learning",
+        "Conocimiento en procesamiento de datos con Pandas",
+        "Experiencia con TensorFlow o PyTorch"
+      ],
+      "rango_salarial": "40,000€ - 55,000€ anuales"
+    },
+    {
+      "empresa": "NetSolutions",
+      "cargo": "Desarrollador Frontend Senior",
+      "lenguajes": ["JavaScript", "React", "TypeScript"],
+      "skills": ["UX/UI Design", "Git", "Desarrollo ágil"],
+      "tipo_contrato": "Indefinido",
+      "tipo_empleo": "Full-time",
+      "ubicacion": "Madrid, España",
+      "requisitos": [
+        "5+ años de experiencia como desarrollador frontend",
+        "Conocimientos avanzados en TypeScript y React",
+        "Experiencia trabajando en equipos ágiles"
+      ],
+      "rango_salarial": "45,000€ - 60,000€ anuales"
+    },
+    {
+      "empresa": "Blockchain Innovators",
+      "cargo": "Desarrollador Blockchain",
+      "lenguajes": ["Solidity", "JavaScript", "Go"],
+      "skills": ["Smart Contracts", "Ethereum", "Desarrollo de DApps"],
+      "tipo_contrato": "Indefinido",
+      "tipo_empleo": "Full-time",
+      "ubicacion": "Madrid, España",
+      "requisitos": [
+        "Experiencia en desarrollo con Solidity y Ethereum",
+        "Conocimientos de contratos inteligentes",
+        "Interés por las tecnologías blockchain"
+      ],
+      "rango_salarial": "50,000€ - 70,000€ anuales"
+    },
+    {
+      "empresa": "UX Innovators",
+      "cargo": "Desarrollador Web Fullstack",
+      "lenguajes": ["JavaScript", "Node.js", "React", "MongoDB"],
+      "skills": ["Diseño centrado en el usuario", "Desarrollo ágil", "Git"],
+      "tipo_contrato": "Indefinido",
+      "tipo_empleo": "Full-time",
+      "ubicacion": "Sevilla, España",
+      "requisitos": [
+        "Experiencia en desarrollo fullstack con JavaScript",
+        "Conocimientos en diseño UX/UI",
+        "Capacidad de trabajar en equipo multidisciplinarios"
+      ],
+      "rango_salarial": "38,000€ - 48,000€ anuales"
+    }
+  ]
+}
